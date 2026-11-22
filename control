@@ -1,0 +1,9 @@
+Package: com.zidaneadam.rainclcompat
+Name: RainMhz x ChargeLimiter Compatibility
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Toggle yang menahan fitur RainMhz yang berpotensi bentrok dengan ChargeLimiter Mod (thermal simulation)
+Maintainer: Zidane Adam
+Author: Zidane Adam
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader
